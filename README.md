@@ -1,0 +1,2 @@
+# CNN-CIFAR10-90-Validation-
+Lab 8 EE104 SJSU Fall 2021
